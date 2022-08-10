@@ -10,7 +10,7 @@ simple shell is a linus command interpreter, which takes in commands through sta
 Quick Setup
 Commands for setup
 
-1. Clone this repo to your local machine
+1. Clone this repo to your local machines
 
 git@github.com:senaitfikadu/simple shell.git
 
